@@ -19,6 +19,16 @@ Disclaimer: HealthPulse is an educational and exploratory project. It is not a m
 <img width="590" height="1278" alt="IMG_7518" src="https://github.com/user-attachments/assets/54a7bb80-57d7-476d-a266-710fad535d0d" />
 <img width="590" height="1278" alt="IMG_7519" src="https://github.com/user-attachments/assets/1216ccca-4309-4253-876f-302282419ecf" />
 
+# Features
+
+- Health metric logging: record measurements such as weight, blood pressure, heart rate, sleep, and temperature.
+- Trends and charts: visualize how readings change over days, weeks, and months.
+- Medication and appointment tracking: keep schedules and notes in one place.
+- Symptom journal: log how you feel, with dates and optional notes, to spot patterns.
+- Reminders: gentle prompts for medications, check-ins, and upcoming appointments.
+- Exportable summaries: generate a simple report to share with a clinician.
+
+
 
 
 
