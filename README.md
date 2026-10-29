@@ -13,3 +13,12 @@ Disclaimer: HealthPulse is an educational and exploratory project. It is not a m
 - Symptom journal: log how you feel, with dates and optional notes, to spot patterns.
 - Reminders: gentle prompts for medications, check-ins, and upcoming appointments.
 - Exportable summaries: generate a simple report to share with a clinician.
+
+# Screenshots
+<img width="590" height="1278" alt="IMG_7517" src="https://github.com/user-attachments/assets/14366ee8-ff6d-4644-8c93-bc1acb798fed" />
+<img width="590" height="1278" alt="IMG_7518" src="https://github.com/user-attachments/assets/54a7bb80-57d7-476d-a266-710fad535d0d" />
+<img width="590" height="1278" alt="IMG_7519" src="https://github.com/user-attachments/assets/1216ccca-4309-4253-876f-302282419ecf" />
+
+
+
+
